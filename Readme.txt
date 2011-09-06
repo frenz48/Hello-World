@@ -1,3 +1,3 @@
 Text!
 
-Testing EMAIL/GITHUB USER change... 
+Testing MAIL change.
